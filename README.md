@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I’m Linh 👋
 
-<!--
-**SchwiLynn/SchwiLynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 CS Student at UT Arlington 
+🌱 Passionate about coding, problem-solving, and emerging tech  
+🎨 Exploring graphics, XR, and backend development  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+**Languages:** Java, C, C++, Python, C#, JavaScript, Dart  
+**Frameworks & Libraries:** Spring Boot, Unity (AR/VR/XR), Next.js, React  
+**Databases & Cloud:** Firebase, CockroachDB, PostgreSQL  
+**Tools & Platforms:** Git, GitHub, Docker, Postman, Android Studio, Vercel  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Projects
+- **WasteAI – Recycling Assistant**: Image-based trash/recycling helper built with Next.js + Firebase (+ optional Gemini). Classifies items and suggests proper disposal, with local history and optional sign-in sync.
+- **Unity XR research** on spatial anchors (Meta Quest + AR Foundation)
+  
+✨ Learning, building, and solving always.
+
