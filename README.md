@@ -11,8 +11,9 @@
 **Tools & Platforms:** Git, GitHub, Docker, Postman, Android Studio, Vercel  
 
 ## 🚀 Current Projects
-- **WasteAI – Recycling Assistant**: Image-based trash/recycling helper built with Next.js + Firebase (+ optional Gemini). Classifies items and suggests proper disposal, with local history and optional sign-in sync.
+## 🚀 Current Projects
+- **[WasteAI – Recycling Assistant](https://waste-ai-omega.vercel.app/)**: Image-based trash/recycling helper built with Next.js + Firebase (+ Gemini). Classifies items and suggests proper disposal, with local history and optional sign-in sync.
 - **Unity XR research** on spatial anchors (Meta Quest + AR Foundation)
-  
+    
 ✨ Learning, building, and solving always.
 
